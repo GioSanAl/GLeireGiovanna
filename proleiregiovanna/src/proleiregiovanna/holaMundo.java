@@ -10,6 +10,7 @@ public class holaMundo {
 =======
 		System.out.println("MUEROOOOOOOO, Marce una preguntita");
 	System.out.println("MUEROOOOOOOO, Marce una preguntita");
+	System.out.println("Me quiero ir a mi casa");
 >>>>>>> branch 'main' of https://github.com/GioSanAl/GLeireGiovanna
 	}
 }
