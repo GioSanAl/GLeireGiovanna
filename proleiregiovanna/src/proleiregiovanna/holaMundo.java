@@ -8,7 +8,8 @@ public class holaMundo {
 		System.out.println("Voy a por las niï¿½as al cole!");
 		System.out.println("No voy");
 =======
-		System.out.println("Voy a por las niñas al cole a llevarlas la merienda!");
+		System.out.println("MUEROOOOOOOO, Marce una preguntita");
+	System.out.println("MUEROOOOOOOO, Marce una preguntita");
 >>>>>>> branch 'main' of https://github.com/GioSanAl/GLeireGiovanna
 	}
 }
